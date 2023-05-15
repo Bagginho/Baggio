@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: 'Popping', sans-serif;
+}
+
+.cabeçalho{
+    background-color: #474343;
+    color: rgb(237, 243, 238);
+    display: flex;
+    jutify-content: space-around;
+    align-itens: center;
+    padding: 24px 0;
+}
+
+.imagem-cabeçalho{
+    width: 15%;
+}
+
+.cabeçalho-lista-i{
+    display: inline-block;
+    margin:0 16px;
+    }
